@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_vladilenminin_1/static/css/main.1f26d51b.css",
+    "main.js": "/react_vladilenminin_1/static/js/main.f38827d4.js",
+    "index.html": "/react_vladilenminin_1/index.html",
+    "main.1f26d51b.css.map": "/react_vladilenminin_1/static/css/main.1f26d51b.css.map",
+    "main.f38827d4.js.map": "/react_vladilenminin_1/static/js/main.f38827d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f26d51b.css",
+    "static/js/main.f38827d4.js"
+  ]
+}
